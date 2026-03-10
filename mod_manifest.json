@@ -1,0 +1,9 @@
+{
+  "id": "foo_mod",
+  "pck_name": "FooMod",
+  "name": "RemoveTheDemon",
+  "author": "Nexyd",
+  "description": "Slay the Spire 2 mod created from a template for use with BaseLib",
+  "version": "v0.0.1",
+  "main_dll": "FooMod.dll"
+}
